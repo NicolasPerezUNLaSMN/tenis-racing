@@ -13,9 +13,9 @@ document.write(`
            
               
 
-                <li><a class="nav-link scrollto" href="rankA.html">Categoria A</a></li>
-		<li><a class="nav-link scrollto" href="rankB.html">Categoria B</a></li>
- 		<li><a class="nav-link scrollto" href="rankC.html">Categoria C</a></li>
+                <a class="nav-link scrollto" href="rankA.html"><li><a class="nav-link scrollto" href="rankA.html">Categoria A</a></li></a>
+		<a class="nav-link scrollto" href="rankB.html"><li><a class="nav-link scrollto" href="rankB.html">Categoria B</a></li></a>
+ 		<a class="nav-link scrollto" href="rankC.html"><li><a class="nav-link scrollto" href="rankC.html">Categoria C</a></li></a>
            
 
               
