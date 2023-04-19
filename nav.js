@@ -10,19 +10,13 @@ document.write(`
           <li class="dropdown"><a href="#"><span>Rank</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               
-              
-              <li class="dropdown"><a href="rankA.html"><span>Categoria A</span> <i class="bi "></i></a>
-              </li>
-              
-              
-              <li class="dropdown"><a href="rankB.html"><span>Categoria B</span> <i class="bi "></i></a>
-               
-              </li>
+           
               
 
-                <li class="dropdown"><a href="rankC.html"><span>Categoria C</span> <i class="bi "></i></a>
-                
-              </li>
+                <li><a class="nav-link scrollto" href="rankA.html">Categoria A</a></li>
+		<li><a class="nav-link scrollto" href="rankB.html">Categoria B</a></li>
+ 		<li><a class="nav-link scrollto" href="rankC.html">Categoria C</a></li>
+           
 
               
             </ul>
