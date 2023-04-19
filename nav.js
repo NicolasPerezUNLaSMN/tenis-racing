@@ -6,17 +6,32 @@ document.write(`
           
           <li><a class="nav-link scrollto" href="inscripciones.html">Inscripciones</a></li>
           
-          
-          <li class="dropdown"><a href="#"><span>Rank</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Ranks</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               
-           
+              
+              <li class="dropdown"><a href="#"><span>Categoria A</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="rankA.html">Ver rank</a></li>
+                  <li><a href="#">Detalles del rank</a></li>
+                </ul>
+              </li>
+              
+              
+              <li class="dropdown"><a href="#"><span>Categoria B</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="rankB.html">Ver rank</a></li>
+                  <li><a href="#">Detalles del rank</a></li>
+                </ul>
+              </li>
               
 
-                <a class="nav-link scrollto" href="rankA.html"><li><a class="nav-link scrollto" href="rankA.html">Categoria A</a></li></a>
-		<a class="nav-link scrollto" href="rankB.html"><li><a class="nav-link scrollto" href="rankB.html">Categoria B</a></li></a>
- 		<a class="nav-link scrollto" href="rankC.html"><li><a class="nav-link scrollto" href="rankC.html">Categoria C</a></li></a>
-           
+                <li class="dropdown"><a href="#"><span>Categoria C</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+		 <li><a href="rankC.html">Ver rank</a></li>
+                  <li><a href="#">Detalles del rank</a></li>
+                </ul>
+              </li>
 
               
             </ul>
