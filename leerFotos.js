@@ -6,7 +6,7 @@ var apiKey = 'AIzaSyAxqYdY98X1rJ1fHo-hTyTlmM3XQahrmpM';
 var idSheets =  '1wtWsoWr1QJE3X4fqbGIIq7J2o8zYbYE1-O3z-np8CyE';
 
 //Rangos de los ranks
-var rangosRankA = 'B2:D5';
+var rangosRankA = 'B3:D5';
 
 
 

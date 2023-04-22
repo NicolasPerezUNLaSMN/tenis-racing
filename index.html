@@ -127,21 +127,22 @@
 	         <a target="_blank" href="https://forms.gle/D3C6bjHJy5Z124oy6"  >Podes subir fotos desde acá:<i ></i></a>
         </div>
           <div class="carousel-inner">
-
+			
                 <div class="carousel-item active">
-                  <img src="assets/img/trofeos.jpg" class="d-block w-50 rounded mx-auto d-block" alt="...">
-                  <div class="carousel-caption d-none d-md-block">
-                  <h5>Algunos de nuestros</h5>
-                  <p>hermosos trofeos.</p>
+                  <img src="https://drive.google.com/uc?export=view&id=145aLGl77jQFYFMwkrROHsHeYo6Xvi6gp"  class="d-block w-50 rounded mx-auto d-block" alt="...">
+                  <div class="carousel-caption  p-3 mb-2 bg-white text-dark">
+
+                  <h6>Campeones...</h6>
+                  <p>Ya están los trofeos esperando.</p>
                 </div>
                 </div>
 
                 <div v-for="lista in listaDatos"  class="carousel-item">
                   <img v-bind:src="lista[2].replace('open?', 'uc?export=view&')"  class="d-block w-50 rounded mx-auto d-block" alt="...">
-                  <div class="carousel-caption d-none d-md-block">
-                  <h5>{{lista[0]}}</h5>
-                  <p>{{lista[1]}}.</p>
-                </div>
+                  <div class="carousel-caption  p-3 mb-2 bg-white text-dark">
+                  	<h6 >{{lista[0]}}</h6>
+                         <p >{{lista[1]}}.</p>
+                  </div>
                 </div>
 
                

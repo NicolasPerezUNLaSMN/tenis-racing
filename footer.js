@@ -16,7 +16,7 @@ document.write(`
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Gustavo  Cardozo</h3>
+            <h5>Gustavo  Cardozo</h5>
             <p>
               <strong>Coordinador de torneos y profesor</strong><br>
 
@@ -29,7 +29,7 @@ document.write(`
 
        
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Nuestras redes en tenis</h4>
+            <h6>Nuestras redes en tenis</h6>
             <p>Seguinos a nosotros y a todos los torneos desde la red que más te guste.</p>
             <div class="social-links mt-3">
               <a href="https://twitter.com/tenisracingclub?lang=es" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -40,7 +40,7 @@ document.write(`
 
 
 	 <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Racing Club</h3>
+            <h5>Racing Club</h5>
             <p>
               AVENIDA MITRE 934, AVELLANEDA<br>
               <strong>Tenis:</strong>  Corbatta Oreste Omar Y Pje. Mozart<br>
