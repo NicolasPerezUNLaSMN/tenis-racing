@@ -16,13 +16,14 @@ document.write(`
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Racing Club</h3>
+            <h3>Gustavo  Cardozo</h3>
             <p>
-              AVENIDA MITRE 934, AVELLANEDA<br>
-              <strong>Tenis:</strong>  Corbatta Oreste Omar Y Pje. Mozart<br>
+              <strong>Coordinador de torneos y profesor</strong><br>
+
        
-              <strong>TEL:</strong>  011 2592-8871<br>
-              <strong>Email:</strong> tenis@racingclub.com.ar<br>
+              <strong>TEL/Wpp:</strong>  1130258299<br>
+              <strong>Email 1:</strong> gustavofc5@hotmail.con<br>
+		<strong>Email 2:</strong> gustavoadriancardozofc5@gmail.con<br>
             </p>
           </div>
 
@@ -37,13 +38,25 @@ document.write(`
             </div>
           </div>
 
+
+	 <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>Racing Club</h3>
+            <p>
+              AVENIDA MITRE 934, AVELLANEDA<br>
+              <strong>Tenis:</strong>  Corbatta Oreste Omar Y Pje. Mozart<br>
+       
+              <strong>TEL:</strong>  011 2592-8871<br>
+              <strong>Email:</strong> tenis@racingclub.com.ar<br>
+            </p>
+          </div>
+
         </div>
       </div>
     </div>
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
+        <!--&copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved-->
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->

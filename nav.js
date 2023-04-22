@@ -13,7 +13,7 @@ document.write(`
               <li class="dropdown"><a href="#"><span>Categoria A</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="rankA.html">Ver rank</a></li>
-                  <li><a href="#">Detalles del rank</a></li>
+                  <li><a href="rankA-detalle.html">Detalles del rank</a></li>
                 </ul>
               </li>
               
@@ -21,7 +21,7 @@ document.write(`
               <li class="dropdown"><a href="#"><span>Categoria B</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="rankB.html">Ver rank</a></li>
-                  <li><a href="#">Detalles del rank</a></li>
+                  <li><a href="rankB-detalle.html">Detalles del rank</a></li>
                 </ul>
               </li>
               
@@ -29,7 +29,7 @@ document.write(`
                 <li class="dropdown"><a href="#"><span>Categoria C</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
 		 <li><a href="rankC.html">Ver rank</a></li>
-                  <li><a href="#">Detalles del rank</a></li>
+                  <li><a href="rankC-detalle.html">Detalles del rank</a></li>
                 </ul>
               </li>
 
@@ -45,16 +45,19 @@ document.write(`
               
               <li class="dropdown"><a href="#"><span>Categoria A</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Torneo fin de a&ntildeo 2022</a></li>
-                  <li><a href="#">Torneo fin de a&ntildeo 2022 - 2da</a></li>
+               
+                  <li><a href="a-dic-2022.html">Torneo fin de a&ntildeo 2022</a></li>
+                  <li><a href="a-dic-2022-2da.html">Torneo fin de a&ntildeo 2022 - 2da</a></li>
                 </ul>
               </li>
               
               
               <li class="dropdown"><a href="#"><span>Categoria B</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Torneo fin de a&ntildeo 2022</a></li>
-                  <li><a href="#">Torneo fin de a&ntildeo 2022 - 2da</a></li>
+                  <li><a href="b-mar-2023.html">Torneo Marzo 2023</a></li>
+                  <li><a href="b-mar-2023-2da.html">Torneo Marzo 2023 - 2da</a></li>
+                  <li><a href="b-dic-2022.html">Torneo fin de a&ntildeo 2022</a></li>
+                  <li><a href="b-dic-2022-2da.html">Torneo fin de a&ntildeo 2022 - 2da</a></li>
                 </ul>
               </li>
               
@@ -71,9 +74,50 @@ document.write(`
               
             </ul>
           </li>
+
+
+
+
+
+	  <li class="dropdown"><a href="#"><span>WhatsApp</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              
+              
+              <li class="dropdown"><a href="https://chat.whatsapp.com/GIU10Tf9nA5BxvQqcwMZn7"><span>Categoria A</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="https://chat.whatsapp.com/GIU10Tf9nA5BxvQqcwMZn7">Grupo de WhatsApp</a></li>
+               
+                </ul>
+              </li>
+              
+              
+              <li class="dropdown"><a href="https://chat.whatsapp.com/FJlOAyCr6Yj9Q2vTvA41kn"><span>Categoria B</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="https://chat.whatsapp.com/FJlOAyCr6Yj9Q2vTvA41kn">Grupo de WhatsApp</a></li>
+                 
+                </ul>
+              </li>
+              
+
+                <li class="dropdown"><a href="https://chat.whatsapp.com/CWZSbQlPRdjHNdffLt2qA9"><span>Categoria C</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+		  <li><a href="https://chat.whatsapp.com/CWZSbQlPRdjHNdffLt2qA9">Grupo de WhatsApp</a></li>
+                </ul>
+              </li>
+
+              
+            </ul>
+          </li>
+
+
+
+
+
+
+
           
           
-          <li><a class="nav-link scrollto" href="#contact">Contacto</a></li>
+         
           
           <li><a class="getstarted scrollto" target="_blank"  href="https://www.racingclub.com.ar/">RACING-CLUB</a></li>
         </ul>

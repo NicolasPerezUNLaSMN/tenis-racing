@@ -7,8 +7,8 @@ var idSheets =  '1wtWsoWr1QJE3X4fqbGIIq7J2o8zYbYE1-O3z-np8CyE';
 
 //Rangos de los ranks
 var rangosRankA = 'B5:F30';
-var rangosRankB = 'B5:F45';
-var rangosRankC = 'B5:F52';
+var rangosRankB = 'B5:F55';
+var rangosRankC = 'B5:F51';
 
 
 const vue = new Vue({
