@@ -97,7 +97,7 @@
         </div>
 
 
-        <div  class="row portfolio-container" data-aos="fade-up" data-aos-delay="200"  v-for="lista in listaDatos" >
+        <div  class="row portfolio-container" data-aos="fade-up" data-aos-delay="200"  v-for="lista in listaDatos.slice().reverse()" >
 
 	          
           <div class="col-lg-4 col-md-6">
@@ -132,8 +132,8 @@
                   <img src="https://drive.google.com/uc?export=view&id=145aLGl77jQFYFMwkrROHsHeYo6Xvi6gp"  class="d-block w-50 rounded mx-auto d-block" alt="...">
                   <div class="carousel-caption  p-3 mb-2 bg-white text-dark">
 
-                  <h6>Campeones...</h6>
-                  <p>Ya están los trofeos esperando.</p>
+                  <h6 >Campeones...</h6>
+                <p >Ya están los trofeos esperando.</p>
                 </div>
                 </div>
 
@@ -141,7 +141,7 @@
                   <img v-bind:src="lista[2].replace('open?', 'uc?export=view&')"  class="d-block w-50 rounded mx-auto d-block" alt="...">
                   <div class="carousel-caption  p-3 mb-2 bg-white text-dark">
                   	<h6 >{{lista[0]}}</h6>
-                         <p >{{lista[1]}}.</p>
+                         <p >{{lista[1]}}.</h6>
                   </div>
                 </div>
 
