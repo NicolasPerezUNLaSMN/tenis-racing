@@ -54,7 +54,7 @@ document.write(`
               
               <li class="dropdown"><a href="#"><span>Categoria B</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="b-agos-2023.html">Torneo Marzo 2023</a></li>
+                  <li><a href="b-agos-2023.html">Torneo Agosto 2023</a></li>
                   <li><a href="b-mar-2023.html">Torneo Marzo 2023</a></li>
                   <li><a href="b-mar-2023-2da.html">Torneo Marzo 2023 - 2da</a></li>
                   <li><a href="b-dic-2022.html">Torneo fin de a&ntildeo 2022</a></li>
