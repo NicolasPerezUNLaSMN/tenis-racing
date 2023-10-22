@@ -7,7 +7,7 @@ var idSheets =  '1wtWsoWr1QJE3X4fqbGIIq7J2o8zYbYE1-O3z-np8CyE';
 
 //Rangos de los ranks
 var rangosRankA = 'B5:F30';
-var rangosRankB = 'B5:F55';
+var rangosRankB = 'B5:X75';
 var rangosRankC = 'B5:X67';
 
 
