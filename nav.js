@@ -55,6 +55,8 @@ document.write(`
               
               <li class="dropdown"><a href="#"><span>Categoria B</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
+                <li><a href="b-agos-2024.html">Torneo B Agosto 2024</a></li>
+                <li><a href="b2-agos-2024.html">Torneo B2 Agosto 2024</a></li>
                   <li><a href="b-mar-2024.html">Torneo B Marzo 2024</a></li>
                   <li><a href="b2-mar-2024.html">Torneo B2 Marzo 2024</a></li>
                   <li><a href="b-nov-2023.html">Torneo Noviembre 2023</a></li>
@@ -70,6 +72,7 @@ document.write(`
 
                 <li class="dropdown"><a href="#"><span>Categoria C</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
+                    <li><a href="c-agos-2024.html">Torneo Agosto 2024 </a></li>
                    <li><a href="c-mar-2024-2da.html">Torneo Marzo 2024 - 2da</a></li>
                    <li><a href="c-mar-2024.html">Torneo Marzo 2024</a></li>
 		               <li><a href="c-nov-2023.html">Torneo Noviembre 2023</a></li>
