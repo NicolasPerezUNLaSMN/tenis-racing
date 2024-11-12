@@ -56,8 +56,8 @@ document.write(`
               
               <li class="dropdown"><a href="#"><span>Categoria B</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                 <li><a href="b2-dic-2024.html">Torneo Fin de a&ntildeo  2024 - B2</a></li>
-                  <li><a href="b-dic-2024.html">Torneo Fin de a&ntildeo  2024 - B</a></li>
+                 <li><a href="b2-dic-2024 .html">Torneo Fin de a&ntildeo  2024 - B2</a></li>
+                  <li><a href="b-dic-2024 .html">Torneo Fin de a&ntildeo  2024 - B</a></li>
                 <li><a href="b-agos-2024.html">Torneo B Agosto 2024</a></li>
                 <li><a href="b2-agos-2024.html">Torneo B2 Agosto 2024</a></li>
                   <li><a href="b-mar-2024.html">Torneo B Marzo 2024</a></li>
