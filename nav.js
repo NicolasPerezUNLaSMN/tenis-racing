@@ -45,6 +45,7 @@ document.write(`
               
               <li class="dropdown"><a href="#"><span>Categoria A</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
+                <li><a href="a2-dic-2024.html">Torneo Fin de a&ntildeo  2024</a></li>
 	          <li><a href="a-nov-2023.html">Torneo Noviembre 2023</a></li>
                   <li><a href="a-agos-2023.html">Torneo Agosto 2023</a></li>
                   <li><a href="a-dic-2022.html">Torneo fin de a&ntildeo 2022</a></li>
@@ -55,6 +56,8 @@ document.write(`
               
               <li class="dropdown"><a href="#"><span>Categoria B</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
+                 <li><a href="b2-dic-2024.html">Torneo Fin de a&ntildeo  2024 - B2</a></li>
+                  <li><a href="b-dic-2024.html">Torneo Fin de a&ntildeo  2024 - B</a></li>
                 <li><a href="b-agos-2024.html">Torneo B Agosto 2024</a></li>
                 <li><a href="b2-agos-2024.html">Torneo B2 Agosto 2024</a></li>
                   <li><a href="b-mar-2024.html">Torneo B Marzo 2024</a></li>
@@ -72,6 +75,8 @@ document.write(`
 
                 <li class="dropdown"><a href="#"><span>Categoria C</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
+                    <li><a href="c-dic-2024.html">Torneo Fin de a&ntildeo  2024 - C</a></li>
+                     <li><a href="c-dic-2024-2da.html">Torneo Fin de a&ntildeo  2024 - c2da</a></li>
                      <li><a href="c-agos-2024-2da.html">Torneo Agosto 2024 - 2da</a></li>
                     <li><a href="c-agos-2024.html">Torneo Agosto 2024 </a></li>
                    <li><a href="c-mar-2024-2da.html">Torneo Marzo 2024 - 2da</a></li>
